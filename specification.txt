@@ -1,0 +1,29 @@
+10 HTML tags:
+- div
+- table
+- img
+- a
+- p
+- h1
+- h2
+- ul and li
+- footer
+- button
+
+5 CSS selectors:
+- #gallery img
+- .list-container
+- .card
+- footer
+- header a
+
+5 CSS properties:
+- margin
+- display (flex)
+- visibility and position
+- object-fit
+- border-radius
+
+How I used Javascript and Bootstrap:
+I implemented bootstraps Accordion, Card and Table components to make information nicely presented.
+I used Javascript to add interactive element to my gallery - users can heart (and unheart) their favourite images.
